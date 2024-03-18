@@ -8,3 +8,7 @@ Check-out time : 12:00 p.m.
 [Convenience facilities]
 - Wifi
 _ One bed
+_ One bed
+- two beds
+-three beds
+- four beds
